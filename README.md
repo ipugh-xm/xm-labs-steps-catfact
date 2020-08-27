@@ -1,6 +1,6 @@
 # Catfact Steps
 
-This step allows you to get cat facts from catfact.ninja/fact.
+This step allows you to get cat facts from https://catfact.ninja/fact.
 
 ---------
 
@@ -18,7 +18,7 @@ This step allows you to get cat facts from catfact.ninja/fact.
 * [cat.png](/cat.png) - cat
 
 # How it works
-This step uses the catfact.ninja website to get a random catfact
+This step uses the https://catfact.ninja website to get a random catfact.
 
 
 # Installation
@@ -40,7 +40,7 @@ The **Catfact - cat fact** step requires that an endpoint to the website `https:
 
 
 ## Example
-This is an example of getting a cat fact
+This is an example of getting a cat fact.
 
 <kbd>
 	<img src="/media/ExampleFlow.png">
